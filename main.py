@@ -1,7 +1,7 @@
 import telebot,json,string,random,time,traceback,requests,pycountry,flagz,threading,re,user_agent
 from telebot import types
 from datetime import datetime, timedelta
-bot = telebot.TeleBot('6816213439:AAHOLjxo78alD2zY42pkcjgDX7MhkI16I88', parse_mode='HTML')
+bot ='6548985360:AAHj0lSAqEMSZKTm4vQNHUU2rFRNdpTmUK8', parse_mode='HTML')
 group='x8_es'
 #In the above variable you will put your group ID 
 botuser='Xzcaubot'
